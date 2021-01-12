@@ -1,6 +1,6 @@
 ## DIBDAB
 
-Development of a fitness data miner that will collect data from specfied fitness providers using supplied public APIs
+Development of a fitness data miner that will collect data from specfied fitness providers using supplied application APIs
 
 ### 
 
